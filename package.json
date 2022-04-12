@@ -61,6 +61,7 @@
     "prettier": "^2.5.1",
     "qunit": "^2.18.0",
     "qunit-dom": "^2.0.0",
+    "tailwindcss": "^2.2.19",
     "webpack": "^5.69.1"
   },
   "engines": {
@@ -68,5 +69,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "ember-cli-postcss": "^8.0.0"
   }
 }
